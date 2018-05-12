@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6912'
     url: http://www.gutenberg.org/2009/agents/6912
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16758#Le-Salon-des-Refus-s--Le-Peinture-en-1863
 gutenberg_bookshelf: FR Peinture
 gutenberg_issued: '2005-09-26'
 gutenberg_type: Text
